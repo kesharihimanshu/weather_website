@@ -10,9 +10,7 @@ body{
     flex-direction: column;
     min-height: 100vh;
 }
-.container{
-    padding: auto;
-}
+
 footer{
     color: #888888;
     border-top: 1px solid #eeeeee ;

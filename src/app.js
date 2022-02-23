@@ -22,7 +22,7 @@ app.use(express.static(publicDic));
 
 app.get('',(req,res)=>{
     res.render('index', {
-        title:'Home page',
+        title:'Welcome To the Best Weather-App',
         name:'Himanshu Keshari'
     })
 })
